@@ -89,16 +89,6 @@ This project is under active development. Rather than overstate what's done, her
 4. "Skills to learn next" recommender
 5. Public deployment
 
-## Running locally
-
-```bash
-git clone https://github.com/Harshdeepsingh120/skillpulse.git
-cd skillpulse
-docker-compose up
-```
-
-*(Add exact env vars / API key setup instructions here once finalized.)*
-
 ---
 
 Built by [Harshdeep Singh](https://linkedin.com/in/harshdeepsingh12) — CS undergrad, LPU.
